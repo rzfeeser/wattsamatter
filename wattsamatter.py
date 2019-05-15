@@ -68,6 +68,7 @@ def main():
     else:
         batch = [STATES[batch]]  # create a list of the single state
     electricsheep(batch)  # real sheep were not used in the testing of electricsheep!
+    input("Press Enter to exit")
 
 if __name__ == "__main__":
     main()
