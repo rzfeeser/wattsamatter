@@ -2,7 +2,7 @@
 ### Author: Russell Zachary Feeser
 ### Contact: rzfeeser@gmail.com
 
-Training & consultant available for:
+Trainer & consultant available for:
 - Python
 - Ansible
 - Network Automation
@@ -14,7 +14,7 @@ Training & consultant available for:
 - Avaya
 - Wireshark
 
-Course catalog: "https://alta3.com"
+**Course catalog:** https://alta3.com
 
 This project queries the https://poweroutage.us database and returns those counties within the United States
 experiencing outages set above the THRESHHOLD.
