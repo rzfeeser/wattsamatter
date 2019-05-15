@@ -1,7 +1,6 @@
 # wattsamatter
-## Russell Zachary Feeser
-
-contact: rzfeeser@gmail.com
+## Author: Russell Zachary Feeser
+### Contact: rzfeeser@gmail.com
 
 Training & consultant available for: [Python, Ansible, Network Automation, 5G, Kubernetes, SIP, SDN,
                                      IP Multimedia Subsystem (IMS), Avaya, Wireshark]
