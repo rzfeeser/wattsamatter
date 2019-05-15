@@ -5,8 +5,14 @@
 Training & consultant available for:
     - Python
     - Ansible
-    - Network Automation, 5G, Kubernetes, SIP, SDN,
-                                     IP Multimedia Subsystem (IMS), Avaya, Wireshark]
+    - Network Automation
+    - 5G
+    - Kubernetes
+    - SIP
+    - SDN
+    - IP Multimedia Subsystem (IMS)
+    - Avaya
+    - Wireshark
 
 Course catalog: "https://alta3.com"
 
