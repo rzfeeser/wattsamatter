@@ -1,14 +1,11 @@
 # wattsamatter
 Russell Zachary Feeser
-
-contact: rzfeeser@gmail.com or rzfeeser@alta3.com
+contact: rzfeeser@gmail.com
 
 Training & consultant available for: [Python, Ansible, Network Automation, 5G, Kubernetes, SIP, SDN,
                                      IP Multimedia Subsystem (IMS), Avaya, Wireshark]
 
 Course catalog: "https://alta3.com"
-
-Training inquiries: rzfeesr@alta3.com
 
 This project queries the https://poweroutage.us database and returns those counties within the United States
 experiencing outages set above the THRESHHOLD.
