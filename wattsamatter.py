@@ -7,6 +7,7 @@ Training & consultant available for: [Python, Ansible, Network Automation, 5G, K
                                      IP Multimedia Subsystem (IMS), Avaya, Wireshark]
 
 Course catalog: "https://alta3.com"
+verizon training
 
 Training inquiries: rzfeesr@alta3.com
 
