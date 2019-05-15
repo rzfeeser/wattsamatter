@@ -31,5 +31,5 @@ Installation considerations:
 If you do use this script, I only ask that you leave my original proof of authorship. Oh, and maybe hire me to be your
 next trainer or consultant :)
 
-####Thanks!
-###Zach
+#### Thanks!
+### Zach
