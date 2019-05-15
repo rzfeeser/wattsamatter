@@ -40,10 +40,10 @@ import requests
 THRESHHOLD = 50
 
 # God bless America, and all the ships at sea
-STATES = {"az": "Alabama", "ak": "Alaska", "az":"Arizona", "ak":"Arkansas", "ca":"California", "co":"Colorado",
+STATES = {"al": "Alabama", "ak": "Alaska", "az":"Arizona", "ar":"Arkansas", "ca":"California", "co":"Colorado",
           "ct":"Connecticut", "de":"Delaware", "ga":"Georgia", "fl":"Florida", "hi": "Hawaii", "id":"Idaho",
           "il":"Illinois", "id":"Indiana", "ia":"Iowa", "ks":"Kansas", "ky":"Kentucky", "la":"Louisiana", "me":"Maine",
-          "md":"Maryland", "ma":"Massachusetts", "mi":"Michigan", "mn":"Minnesota", "mi":"Mississippi", "mo":"Missouri",
+          "md":"Maryland", "ma":"Massachusetts", "mi":"Michigan", "mn":"Minnesota", "ms":"Mississippi", "mo":"Missouri",
           "mt":"Montana", "ne":"Nebraska", "nv":"Nevada", "nh": "New Hampshire", "nj": "New Jersey",
           "nm": "New Mexico", "ny": "New York", "nc": "North Carolina", "nd": "North Dakota", "oh": "ohio",
           "ok": "Oklahoma", "or": "Oregon", "pa": "Pennsylvania", "ri": "Rhode Island", "sc":"South Carolina",
