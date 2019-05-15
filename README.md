@@ -9,7 +9,7 @@ Trainer & consultant available for:
 - 5G
 - Kubernetes
 - SIP
-- SDN
+- SDN / NFV
 - IP Multimedia Subsystem (IMS)
 - Avaya
 - Wireshark
