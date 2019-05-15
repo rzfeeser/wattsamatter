@@ -1,5 +1,5 @@
 # wattsamatter
-Russell Zachary Feeser
+## Russell Zachary Feeser
 
 contact: rzfeeser@gmail.com
 
