@@ -1,6 +1,7 @@
 # wattsamatter
 Russell Zachary Feeser
-rzfeeser@gmail.com || rzfeeser@alta3.com
+
+contact: rzfeeser@gmail.com or rzfeeser@alta3.com
 
 Training & consultant available for: [Python, Ansible, Network Automation, 5G, Kubernetes, SIP, SDN,
                                      IP Multimedia Subsystem (IMS), Avaya, Wireshark]
