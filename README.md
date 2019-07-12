@@ -1,6 +1,7 @@
 # wattsamatter
 ### Author: Russell Zachary Feeser
 ### Contact: rzfeeser@gmail.com
+### Updated: 2019-07-11
 
 Trainer & consultant available for:
 - Python
