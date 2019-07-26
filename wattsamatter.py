@@ -13,7 +13,7 @@ Training inquiries: rzfeesr@alta3.com
 This project queries the https://poweroutage.us database and returns those counties within the United States
 experiencing outages set above the THRESHHOLD.
 
-This script is not intended for commercial use and is intended only for educational purposes.
+This script is not intended for commercial use and is intended only for educational purposes. Please check out poweroutage.us for source data, as that is where this code pulls data from.
 
 https://poweroutage.us provides a RESTFUL API for commercial users.
 
