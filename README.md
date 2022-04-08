@@ -14,6 +14,7 @@ Trainer & consultant available for:
 - IP Multimedia Subsystem (IMS)
 - Avaya
 - Wireshark
+- Go
 
 **Course catalog:** https://alta3.com
 
